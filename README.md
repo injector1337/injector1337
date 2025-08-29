@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Batuhan, I've been dealing with software for about 2 years. I mostly develop myself with Front End and continue to develop myself.
+Hello, I'm Batuhan, I've been dealing with software for about 4 years. I mostly develop myself with Front End and continue to develop myself.
 
 
 ## 🌐 Socials:
