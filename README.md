@@ -1,7 +1,7 @@
 <h1 align="center">Github Profilime Hoşgeldin :)</h1>
 
 <div align="center">
-<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?theme=dark&showDisplayName=true" /></a>
+<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=000000&borderRadius=10px&showDisplayName=true" /></a>
 </div>
 
 ###
