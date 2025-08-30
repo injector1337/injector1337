@@ -10,9 +10,6 @@
 
 <h4 align="center">Selam, ismim Batuhan, 21 yaşındayım. Arel Üniversitesinde Bilgi Güvenliği Bölümü Öğrencisiyim. Aktif Olarak 4 yıldır FiveM Platformunda<br>Back-End Developer olarak hizmet vermekteyim. Daha nicesi için https://discord.gg/wcommunitydev<br><br>Sağlamış Olduğum Hizmetler<br>1. Sıfırdan İstek Script Yazma<br>2. Bug/Hata düzeltme<br>3. Client/Server Side Optimizasyonu<br>4. Client Side Trigger Şifreleme<br>Ve daha nicesi</h4>
 
-
-<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=1b1844&borderRadius=20px&showDisplayName=true" /></a>
-
 ###
 
 <div align="center">
@@ -86,3 +83,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=injector1337.injector1337&left_color=black&right_color=darkgrey"  />
 
 ###
+
+<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=1b1844&borderRadius=20px&showDisplayName=true" /></a>
