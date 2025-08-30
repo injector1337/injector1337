@@ -74,13 +74,5 @@
 ###
 
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=injector1337.injector1337&left_color=black&right_color=darkgrey"  />
-</div>
-
-###
-
 
 
