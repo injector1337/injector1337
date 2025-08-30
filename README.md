@@ -83,4 +83,4 @@
 
 ###
 
-<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=1b1844&borderRadius=20px&showDisplayName=true" /></a>
+<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=000000&borderRadius=20px&showDisplayName=true" /></a>
