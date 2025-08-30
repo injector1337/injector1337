@@ -73,7 +73,6 @@
 
 ###
 
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injector1337/injector1337/output/pacman-contribution-graph-dark.svg">
