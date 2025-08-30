@@ -1,6 +1,11 @@
 <h1 align="center">Github Profilime Hoşgeldin :)</h1>
 
+<div align="center">
+<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?theme=dark&showDisplayName=true" /></a>
+</div>
+
 ###
+
 
 <h1 align="center">Hakkımda</h1>
 
@@ -13,7 +18,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/wcommunitydev" target="_blank">
+  <a href="https://discord.gg/wcommunity" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://x.com/bathuwan" target="_blank">
@@ -73,18 +78,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injector1337/injector1337/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injector1337/injector1337/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/injector1337/injector1337/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=injector1337.injector1337&left_color=black&right_color=darkgrey"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=injector1337.injector1337&left_color=black&right_color=darkgrey"  />
+</div>
 
 ###
 
-<div align="center">
-<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?theme=dark&showDisplayName=true" /></a>
-</div>
 
 
