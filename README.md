@@ -83,6 +83,8 @@
 
 ###
 
-<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=000000&borderRadius=20px&showDisplayName=true" /></a>  
+<div align="center">
+<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?theme=dark&showDisplayName=true" /></a>
+</div>
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mcxjjsc4v47bvql3g2r7trxfkq&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+
