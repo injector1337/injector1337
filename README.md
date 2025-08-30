@@ -1,6 +1,6 @@
 <h1 align="center">Github Profilime Hoşgeldin :)</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/260660597312585728?bg=1b1844&borderRadius=20px&showDisplayName=true)](https://discord.com/users/260660597312585728)
+<a href="https://discord.com/users/260660597312585728"><img src="https://lanyard.cnrad.dev/api/260660597312585728?bg=1b1844&borderRadius=20px&showDisplayName=true" /></a>
 
 ###
 
