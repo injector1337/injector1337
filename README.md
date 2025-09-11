@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<h4 align="center">Selam, ismim Batuhan, 21 yaşındayım. Arel Üniversitesinde Bilgi Güvenliği Bölümü Öğrencisiyim. Aktif Olarak 4 yıldır FiveM Platformunda<br>Back-End Developer olarak hizmet vermekteyim. Daha nicesi için https://discord.gg/wcommunitydev<br><br>Sağlamış Olduğum Hizmetler<br>1. Sıfırdan İstek Script Yazma<br>2. Bug/Hata düzeltme<br>3. Client/Server Side Optimizasyonu<br>4. Client Side Trigger Şifreleme<br>Ve daha nicesi</h4>
+<h4 align="center">Selam, ismim Emir. Arel Üniversitesinde Bilgi Güvenliği Bölümü Öğrencisiyim. Aktif Olarak 4 yıldır FiveM Platformunda<br>Back-End Developer olarak hizmet vermekteyim. Daha nicesi için https://discord.gg/wcommunitydev<br><br>Sağlamış Olduğum Hizmetler<br>1. Sıfırdan İstek Script Yazma<br>2. Bug/Hata düzeltme<br>3. Client/Server Side Optimizasyonu<br>4. Client Side Trigger Şifreleme<br>Ve daha nicesi</h4>
 
 ###
 
